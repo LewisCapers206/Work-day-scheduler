@@ -7,5 +7,5 @@ function displayTime() {
 
 setInterval(displayTime, 1000);
 
-var right = $('.row');
 
+    
